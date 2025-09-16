@@ -1,4 +1,4 @@
 User-agent: *
 
-Host: https://typograf.github.io
-Sitemap: https://typograf.github.io/sitemap.xml
+Host: https://wayneris.github.io
+Sitemap: https://wayneris.github.io/sitemap.xml

@@ -1,7 +1,7 @@
-[Интерфейс для Типографа](https://typograf.github.io)
+[Интерфейс для Типографа](https://wayneris.github.io)
 =======
 
-[Десктопная](https://typograf.github.io) и [мобильная](https://typograf.github.io/mobile.html) версия.
+[Десктопная](https://wayneris.github.io) и [мобильная](https://wayneris.github.io/mobile.html) версия.
 
 
 ## Разработка

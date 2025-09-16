@@ -5,19 +5,19 @@
   "author": {
     "name": "Denis Seleznev",
     "email": "hcodes@yandex.ru",
-    "url": "https://github.com/typograf/typograf.github.io/"
+    "url": "https://github.com/wayneris/wayneris.github.io/"
   },
   "private": true,
-  "homepage": "https://github.com/typograf/typograf.github.io/",
+  "homepage": "https://github.com/wayneris/wayneris.github.io/",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/typograf/typograf/blob/master/LICENSE"
+      "url": "https://github.com/wayneris/typograf/blob/dev/LICENSE.md"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/typograf/typograf.github.io.git"
+    "url": "git://github.com/wayneris/wayneris.github.io.git"
   },
   "keywords": [
     "typo",
@@ -55,7 +55,7 @@
     "throttle-debounce": "^5.0.2",
     "tslib": "^2.8.1",
     "typescript": "^5.9.2",
-    "typograf": "^7.4.4",
+    "typograf": "github:wayneris/typograf#dev",
     "typescript-eslint": "^8.32.0",
     "globals": "^16.3.0"
   },
