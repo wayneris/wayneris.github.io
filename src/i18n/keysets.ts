@@ -123,7 +123,7 @@ export const keysets: I18nKeysets = {
     },
     locale: {
         'en-US': 'Locale',
-        ru: 'Локаль'
+        ru: 'Локализация'
     },
     'full-version': {
         'en-US': 'Full version',
